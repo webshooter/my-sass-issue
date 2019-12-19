@@ -1,0 +1,27 @@
+.other {
+  color: #ff9900;
+}
+
+.sample {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+
+/**
+ * Foundation for Sites by ZURB
+ * Version 6.6.1
+ * foundation.zurb.com
+ * Licensed under MIT Open Source
+ */
+.app {
+  color: #141414;
+}
+
+.prefix-example {
+  display: grid;
+  transition: all 0.5s;
+  user-select: none;
+  background: linear-gradient(to bottom, white, black);
+}
+
+/*# sourceMappingURL=app.css.map */
